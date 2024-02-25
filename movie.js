@@ -14,7 +14,6 @@ class Movie {
         }
         return res;
     }
-
 }
 
 let movie1 = new Movie('Leo', 'Lyca Production Studio', 'PG');
